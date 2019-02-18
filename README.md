@@ -1,2 +1,3 @@
 # BFML
-Bloomber Foundations of ML
+Bloomberg Foundations of Machine Learning  
+https://bloomberg.github.io/foml/#home
